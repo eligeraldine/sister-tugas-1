@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 logger.py --bind 192.168.122.248 --port 5004 --expect 10
+python3 logger.py --bind 0.0.0.0 --port 5004 --expect 10
